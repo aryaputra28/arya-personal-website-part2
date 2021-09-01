@@ -23,7 +23,7 @@ function Sidebar({ isOpen, toggle }) {
               to="profile"
               onClick={toggle}
               smooth={true}
-              duration={500}
+              duration={1000}
               spy={true}
               exact="true"
               offset={-30}
@@ -34,7 +34,7 @@ function Sidebar({ isOpen, toggle }) {
               to="experiences"
               onClick={toggle}
               smooth={true}
-              duration={500}
+              duration={1000}
               spy={true}
               exact="true"
               offset={-30}
@@ -45,7 +45,7 @@ function Sidebar({ isOpen, toggle }) {
               to="abilities"
               onClick={toggle}
               smooth={true}
-              duration={500}
+              duration={1000}
               spy={true}
               exact="true"
               offset={-30}
@@ -56,7 +56,7 @@ function Sidebar({ isOpen, toggle }) {
               to="projects"
               onClick={toggle}
               smooth={true}
-              duration={500}
+              duration={1000}
               spy={true}
               exact="true"
               offset={-80}
@@ -65,7 +65,17 @@ function Sidebar({ isOpen, toggle }) {
             </SidebarLink>
           </SidebarMenu>
           <SideBtnWrap>
-            <SidebarRoute to="/order">Order My Product</SidebarRoute>
+            <SidebarRoute
+              to="contact"
+              onClick={toggle}
+              smooth={true}
+              duration={1000}
+              spy={true}
+              exact="true"
+              offset={-80}
+            >
+              Contact
+            </SidebarRoute>
           </SideBtnWrap>
         </SidebarWrapper>
       </SidebarContainer>

@@ -19,10 +19,10 @@ function About() {
           <div class="col-lg-4 aboutSection">
             <h3 id="aboutMe">About Me</h3>
             <p id="aboutDetail" style={{ marginTop: "40px" }}>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-              rhoncus eu dui nec elementum. Integer malesuada erat nisl, ac
-              commodo lacus accumsan quis. Integer eget enim arcu. Sed ante
-              nibh, sagittis et ex sed, finibus pellentesque augue.
+              My name is Arya, I am a student of Fasilkom UI. I am interested in
+              several fields such as photography, videography, design, video
+              editing and web development. I'm still learning to master all
+              these fields
             </p>
           </div>
           <div class="col-lg-4 myPict">
