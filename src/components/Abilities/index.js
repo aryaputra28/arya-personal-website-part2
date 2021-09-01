@@ -100,6 +100,16 @@ function Abilities() {
             </div>
           </div>
           <div class="mySkill col-lg-6 d-flex justify-content-between mb-2">
+            <div class="p-2">Figma</div>
+            <div class="p-2">
+              <i class="fas fa-star goldStar"></i>
+              <i class="fas fa-star goldStar"></i>
+              <i class="fas fa-star goldStar"></i>
+              <i class="fas fa-star goldStar"></i>
+              <i class="fas fa-star goldStar"></i>
+            </div>
+          </div>
+          <div class="mySkill col-lg-6 d-flex justify-content-between mb-2">
             <div class="p-2">Bootstrap</div>
             <div class="p-2">
               <i class="fas fa-star goldStar"></i>
