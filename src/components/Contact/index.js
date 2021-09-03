@@ -45,7 +45,7 @@ function Contact() {
                 <img src={github} alt="githubLogo"></img>
               </div>
               <div class="p-2" style={{ color: "white" }}>
-                <p>github.com/aryaputr213</p>
+                <p>github.com/aryaputra28</p>
               </div>
             </div>
           </div>
